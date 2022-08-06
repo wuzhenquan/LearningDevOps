@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/01 What is DevOps? - TechWorld with Nana.md",
+            "file": "01 What is and why do we use DevOps/3 DevOps Lifecycle - Application Focused/03 Coutinous Intergration - IBM YouTube.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376
+    "width": 218
   },
   "right": {
     "id": "6f1361d18a11532d",
@@ -77,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/01 What is DevOps? - TechWorld with Nana.md",
+                "file": "01 What is and why do we use DevOps/3 DevOps Lifecycle - Application Focused/03 Coutinous Intergration - IBM YouTube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/01 What is DevOps? - TechWorld with Nana.md",
+                "file": "01 What is and why do we use DevOps/3 DevOps Lifecycle - Application Focused/03 Coutinous Intergration - IBM YouTube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,23 +117,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/01 What is DevOps? - TechWorld with Nana.md"
+                "file": "01 What is and why do we use DevOps/3 DevOps Lifecycle - Application Focused/03 Coutinous Intergration - IBM YouTube.md"
               }
             }
+          },
+          {
+            "id": "fb73d1f255f25202",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7278040f57ed835d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 268,
     "collapsed": true
   },
-  "active": "9c8cbc01e3c22c57",
+  "active": "522aa0e9cc6c39a1",
   "lastOpenFiles": [
-    "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/05 What is DevOps? - Microsoft.md",
+    "01 What is and why do we use DevOps/3 DevOps Lifecycle - Application Focused/01 Continuous Development.md",
+    "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/04 What is DevOps? - AWS.md",
+    "2022-08-06.md",
+    "01 What is and why do we use DevOps/3 DevOps Lifecycle - Application Focused/03 Coutinous Intergration - IBM YouTube.md",
+    "01 What is and why do we use DevOps/3 DevOps Lifecycle - Application Focused/02 Continuouse Testing - IBM Youtube.md",
     "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/01 What is DevOps? - TechWorld with Nana.md",
-    "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/02 What is DevOps? - GitHub YouTube.md",
     "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/03 What is DevOps? - IBM YouTube.md",
-    "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/04 What is DevOps? - AWS.md"
+    "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/02 What is DevOps? - GitHub YouTube.md",
+    "01 What is and why do we use DevOps/2 Responsibilities of a DevOps Engineer/05 What is DevOps? - Microsoft.md",
+    "2022-08-01.md"
   ]
 }

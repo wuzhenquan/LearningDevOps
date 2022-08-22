@@ -1,0 +1,42 @@
+# just a road map
+- Python
+- Git 
+- Operating Systems
+	- BASH(to know how to: install software | open up ports | check port open status, etc.)
+	- [linux file system permissions](https://youtu.be/5pxbp6FyTfk?t=151) 
+		- how to set them
+		- directory structure
+		- name off all the directories & name the function of each of these directories
+	- SSH
+- Networking
+	- DNS Name Resolution
+	- SUBNETTING
+	- GATEWAYS
+	- DHCP/NAT
+	- HTTP 
+	- firewall: 
+		- should understand difference between **incoming traffic** and **outgoing traffic** 
+		- what a stateful firewall is as well as what a non-statefull firewall is
+		- difference between a layer 3 firewall 🆚 a layer 7 
+	- load balancers
+	- proxy servers
+- Cloud Providers 
+- infrastructure as code 
+- Containers
+	- is environments that you create that your software can run on 
+	- recommend ➡️ taking some pratical training & learning them from bottom up
+	- [🎓 course](https://www.youtube.com/watch?v=O-z_vUr53iU&list=PLnFWJCugpwfzyZ7NbYVyajGIVjEsZK5JT)  & key knowldege
+		- contanier management
+		- image management
+		- inspecting containers
+		- docker networking
+		- docker vloumes
+		- greating dockerfiles
+		- useing docker-compose
+- Container Orchestration ![[Pasted image 20220820180316.png]]
+	- infrastructure provisioning 
+- configuration management![[Pasted image 20220820181029.png]]
+-  CI/CD pipelines:  Linting → Dependency Checks → Unit Tests → Architecture Tests
+	- tools: Gitlab | Github Actions | TravisCI | Jenkins
+- Monitoring and Log Management
+	- tools: Grafana | ELK Stack | Splunk | Prometheus 

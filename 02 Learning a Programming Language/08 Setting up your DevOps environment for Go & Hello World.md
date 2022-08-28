@@ -66,7 +66,7 @@ GOGCCFLAGS="-fPIC -arch arm64 -pthread -fno-caret-diagnostics -Qunused-arguments
 ❯ touch main.go
 ```
 
-用 vscode 打卡 main.go 的时候 vscode 就会提示你装 [Go 的插件](https://marketplace.visualstudio.com/items?itemName=golang.Go) 了, 并且 pkg 目录里会自动装上新的 packages。
+用 vscode 打开 main.go 的时候 vscode 就会提示你装 [Go 的插件](https://marketplace.visualstudio.com/items?itemName=golang.Go) 了, 并且 pkg 目录里会自动装上新的 packages。
 ### 2️⃣ Get code into your `main.go`
 ```go
 package main

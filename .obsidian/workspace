@@ -7,12 +7,8 @@
         "id": "522aa0e9cc6c39a1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "02 Learning a Programming Language/07 The Big Picture - DevOps & Learning a Programming Language.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#复杂项目的代码结构 ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348
+    "width": 278
   },
   "right": {
     "id": "6f1361d18a11532d",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Learning a Programming Language/07 The Big Picture - DevOps & Learning a Programming Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Learning a Programming Language/07 The Big Picture - DevOps & Learning a Programming Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02 Learning a Programming Language/07 The Big Picture - DevOps & Learning a Programming Language.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,17 +137,17 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "522aa0e9cc6c39a1",
+  "active": "9c8cbc01e3c22c57",
   "lastOpenFiles": [
+    "A practice of Zettelkasten.md",
+    "02 Learning a Programming Language/10 The Go Workspace & Compiling & running code.md",
+    "02 Learning a Programming Language/总结.md",
     "02 Learning a Programming Language/08 Setting up your DevOps environment for Go & Hello World.md",
     "02 Learning a Programming Language/07 The Big Picture - DevOps & Learning a Programming Language.md",
+    "02 Learning a Programming Language/09  Let's explain the Hello World code.md",
     "images/Pasted image 20220821233017.png",
     "02 Learning a Programming Language/说明.md",
     "02 Learning a Programming Language/index.md",
-    "images/Pasted image 20220820181029.png",
-    "images/Pasted image 20220820180316.png",
-    "images/Pasted image 20220820171328.png",
-    "01 What is and why do we use DevOps/05 Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >/03 How to become a DevOps Engineer in 2021 - DevOps Roadmap.md",
-    "01 What is and why do we use DevOps/05 Plan > Code > Build > Testing > Release > Deploy > Operate > Monitor >/02 Techworld with Nana -DevOps Roadmap 2022 - How to become a DevOps Engineer? What is DevOps?.md"
+    "images/Pasted image 20220820181029.png"
   ]
 }

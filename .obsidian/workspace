@@ -7,8 +7,12 @@
         "id": "522aa0e9cc6c39a1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "02 Learning a Programming Language/⏲️ 13 Tweet your progress with our new App.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 Learning a Programming Language/⏲️ 13 Tweet your progress with our new App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 Learning a Programming Language/⏲️ 13 Tweet your progress with our new App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 Learning a Programming Language/⏲️ 13 Tweet your progress with our new App.md"
+              }
             }
           },
           {
@@ -137,17 +145,17 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "9c8cbc01e3c22c57",
+  "active": "522aa0e9cc6c39a1",
   "lastOpenFiles": [
-    "A practice of Zettelkasten.md",
-    "02 Learning a Programming Language/10 The Go Workspace & Compiling & running code.md",
-    "02 Learning a Programming Language/总结.md",
-    "02 Learning a Programming Language/08 Setting up your DevOps environment for Go & Hello World.md",
-    "02 Learning a Programming Language/07 The Big Picture - DevOps & Learning a Programming Language.md",
-    "02 Learning a Programming Language/09  Let's explain the Hello World code.md",
-    "images/Pasted image 20220821233017.png",
-    "02 Learning a Programming Language/说明.md",
-    "02 Learning a Programming Language/index.md",
-    "images/Pasted image 20220820181029.png"
+    "02 Learning a Programming Language/codes/makefile.md",
+    "02 Learning a Programming Language/codes/day13_example3.go.md",
+    "02 Learning a Programming Language/codes/day13_example2.go.md",
+    "02 Learning a Programming Language/codes/day13_example1.go.md",
+    "02 Learning a Programming Language/codes/day12_example4.go.md",
+    "02 Learning a Programming Language/codes/day12_example3.go.md",
+    "02 Learning a Programming Language/codes/day12_example2.go.md",
+    "02 Learning a Programming Language/codes/day12_example1.go.md",
+    "02 Learning a Programming Language/codes/day11_example4.go.md",
+    "02 Learning a Programming Language/codes/day11_example3.go.md"
   ]
 }

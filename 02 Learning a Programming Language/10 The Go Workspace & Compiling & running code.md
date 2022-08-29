@@ -1,12 +1,12 @@
- # workspace, 3 directories
+ ## workspace, 3 directories
  - src: handles namespacing package managementa
  - pkg: packages
  - bin: all your compiled binaries
 
-# 复杂项目的代码结构
+## 复杂项目的代码结构
 来源 - [GoChronicles](https://gochronicles.com/project-structure/) 也解释了 why & how & deeper other 
 [![](https://github.com/MichaelCade/90DaysOfDevOps/raw/main/Days/Images/Day10_Go5.png)](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/Days/Images/Day10_Go5.png)
-# a litter deeper compiling
+## a litter deeper compiling
 Go tools let us build and process go files.
 one of the Go tool is `Go`.
 you can intall additional tools.

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "522aa0e9cc6c39a1",
+        "id": "6fa43e7334127da8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 Learning a Programming Language/⏲️ 13 Tweet your progress with our new App.md",
+            "file": "03 Knowing Linux Basics/18 SSH & Web Server.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 278,
+    "collapsed": true
   },
   "right": {
     "id": "6f1361d18a11532d",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Learning a Programming Language/⏲️ 13 Tweet your progress with our new App.md",
+                "file": "03 Knowing Linux Basics/18 SSH & Web Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Learning a Programming Language/⏲️ 13 Tweet your progress with our new App.md",
+                "file": "03 Knowing Linux Basics/18 SSH & Web Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Learning a Programming Language/⏲️ 13 Tweet your progress with our new App.md"
+                "file": "03 Knowing Linux Basics/18 SSH & Web Server.md"
               }
             }
           },
@@ -138,24 +139,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 268,
-    "collapsed": true
+    "width": 268
   },
-  "active": "522aa0e9cc6c39a1",
+  "active": "2a7ce8a678372c8e",
   "lastOpenFiles": [
-    "02 Learning a Programming Language/codes/makefile.md",
-    "02 Learning a Programming Language/codes/day13_example3.go.md",
-    "02 Learning a Programming Language/codes/day13_example2.go.md",
-    "02 Learning a Programming Language/codes/day13_example1.go.md",
-    "02 Learning a Programming Language/codes/day12_example4.go.md",
-    "02 Learning a Programming Language/codes/day12_example3.go.md",
-    "02 Learning a Programming Language/codes/day12_example2.go.md",
-    "02 Learning a Programming Language/codes/day12_example1.go.md",
-    "02 Learning a Programming Language/codes/day11_example4.go.md",
-    "02 Learning a Programming Language/codes/day11_example3.go.md"
+    "03 Knowing Linux Basics/17 Text Editors - nano vs vim.md",
+    "03 Knowing Linux Basics/18 SSH & Web Server.md",
+    "03 Knowing Linux Basics/15 Linux Commands for DevOps (Actually everyone).md",
+    "03 Knowing Linux Basics/14 The Big Picture DevOps and Linux.md",
+    "02 Learning a Programming Language/08 Setting up your DevOps environment for Go & Hello World.md",
+    "02 Learning a Programming Language/07 The Big Picture - DevOps & Learning a Programming Language.md",
+    "2022-10-10.md",
+    "03 Knowing Linux Basics/16 Managing your Linux System, Filesystem & Storage.md",
+    "03 Knowing Linux Basics/总结.md",
+    "02 Learning a Programming Language/🚇 支线任务.md"
   ]
 }

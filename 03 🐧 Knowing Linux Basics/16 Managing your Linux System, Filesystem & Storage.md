@@ -58,12 +58,6 @@ temporary files.
  If we as a standard user have installed software packages it would generally be installed in the `/usr/bin` location.
 ### `/var`
  Our applications get installed in a `bin` folder. We need somewhere to store all of the log files this is `/var` 
-
-
-
-
-
-
 ## Storage 
 -   `lsblk` Short for LiSt BLocK devices. `sda` is our physical disk and then `sda1, sda2, sda3` are our partitions on that disk.
 	[![](https://github.com/MichaelCade/90DaysOfDevOps/raw/main/Days/Images/Day16_Linux25.png)](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/Days/Images/Day16_Linux25.png) 

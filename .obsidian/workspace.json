@@ -4,16 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6fa43e7334127da8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "03 Knowing Linux Basics/🚇 支线任务.md",
-            "mode": "source",
-            "source": false
+        "id": "52de97aa4529fca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb73724bb7833080",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 🌐 Understand Networking/21 The Big Picture DevOps and Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e88d5bf483917889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 🌐 Understand Networking/👩‍🏫 总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61344f8934a83b9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 🌐 Understand Networking/🚇 支线任务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Knowing Linux Basics/🚇 支线任务.md",
+                "file": "04 🌐 Understand Networking/🚇 支线任务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Knowing Linux Basics/🚇 支线任务.md",
+                "file": "04 🌐 Understand Networking/🚇 支线任务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Knowing Linux Basics/🚇 支线任务.md"
+                "file": "04 🌐 Understand Networking/🚇 支线任务.md"
               }
             }
           },
@@ -138,24 +171,26 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 268,
-    "collapsed": true
+    "width": 266.5
   },
-  "active": "6fa43e7334127da8",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "61344f8934a83b9a",
   "lastOpenFiles": [
-    "03 Knowing Linux Basics/19 Automate tasks with bash scripts.md",
-    "03 Knowing Linux Basics/总结.md",
-    "03 Knowing Linux Basics/15 Linux Commands for DevOps (Actually everyone).md",
-    "03 Knowing Linux Basics/16 Managing your Linux System, Filesystem & Storage.md",
-    "03 Knowing Linux Basics/17 Text Editors - nano vs vim.md",
-    "03 Knowing Linux Basics/18 SSH & Web Server.md",
-    "03 Knowing Linux Basics/🚇 支线任务.md",
-    "03 Knowing Linux Basics/20 Dev workstation setup - All the pretty things.md",
-    "02 Learning a Programming Language/🚇 支线任务.md",
-    "03 Knowing Linux Basics/14 The Big Picture DevOps and Linux.md"
+    "04 🌐 Understand Networking/👩‍🏫 总结.md",
+    "04 🌐 Understand Networking/21 The Big Picture DevOps and Networking.md",
+    "03 🐧 Knowing Linux Basics/👩‍🏫 总结.md",
+    "03 🐧 Knowing Linux Basics/🚇 支线任务.md",
+    "03 🐧 Knowing Linux Basics/18 SSH & Web Server.md",
+    "03 🐧 Knowing Linux Basics/19 Automate tasks with bash scripts.md",
+    "03 🐧 Knowing Linux Basics/15 Linux Commands for DevOps (Actually everyone).md",
+    "03 🐧 Knowing Linux Basics/16 Managing your Linux System, Filesystem & Storage.md",
+    "03 🐧 Knowing Linux Basics/20 Dev workstation setup - All the pretty things.md",
+    "02 ⌨️ Learning a Programming Language/08 Setting up your DevOps environment for Go & Hello World.md"
   ]
 }

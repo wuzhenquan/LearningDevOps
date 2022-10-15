@@ -1,5 +1,8 @@
 {
-  "cssTheme": "California Coast",
+  "cssTheme": "Minimal",
   "theme": "system",
-  "translucency": true
+  "translucency": true,
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": true
 }

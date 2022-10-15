@@ -1,10 +1,12 @@
-## Confirming SSH is running
+## SSH
+这部分像是从这个视频里记录下来了，看这个视频就好了 [The Beginner's guide to SSH](https://www.youtube.com/watch?v=2QXkrLVsRmk) 
+### Confirming SSH is running
 `sudo systemctl status ssh`: 检查 SSH 是否 configured on our machine
 [![](https://github.com/MichaelCade/90DaysOfDevOps/raw/main/Days/Images/Day18_Linux3.png)](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/Days/Images/Day18_Linux3.png) 
 `sudo apt install OpenSSH-server`: 如果还没有安装的话安装一下
 `sudo ufw allow ssh`: make sure SSH is allowed if the firewall is running
 
-## Remote Access
+### Remote Access
 
 #### By SSH Password
 

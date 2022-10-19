@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "52de97aa4529fca8",
+        "id": "c86d95c8a6932159",
         "type": "tabs",
         "children": [
           {
-            "id": "cb73724bb7833080",
+            "id": "414b0fbe63c5b81b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 🌐 Understand Networking/21 The Big Picture DevOps and Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e88d5bf483917889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 🌐 Understand Networking/👩‍🏫 总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61344f8934a83b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 🌐 Understand Networking/🚇 支线任务.md",
+                "file": "04 🌐 Understand Networking/23 Network Protocols.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325
+    "width": 200
   },
   "right": {
     "id": "6f1361d18a11532d",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 🌐 Understand Networking/🚇 支线任务.md",
+                "file": "04 🌐 Understand Networking/23 Network Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 🌐 Understand Networking/🚇 支线任务.md",
+                "file": "04 🌐 Understand Networking/23 Network Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 🌐 Understand Networking/🚇 支线任务.md"
+                "file": "04 🌐 Understand Networking/23 Network Protocols.md"
               }
             }
           },
@@ -175,22 +150,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 210.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "61344f8934a83b9a",
+  "active": "414b0fbe63c5b81b",
   "lastOpenFiles": [
-    "04 🌐 Understand Networking/👩‍🏫 总结.md",
+    "04 🌐 Understand Networking/23 Network Protocols.md",
     "04 🌐 Understand Networking/21 The Big Picture DevOps and Networking.md",
-    "03 🐧 Knowing Linux Basics/👩‍🏫 总结.md",
-    "03 🐧 Knowing Linux Basics/🚇 支线任务.md",
-    "03 🐧 Knowing Linux Basics/18 SSH & Web Server.md",
-    "03 🐧 Knowing Linux Basics/19 Automate tasks with bash scripts.md",
-    "03 🐧 Knowing Linux Basics/15 Linux Commands for DevOps (Actually everyone).md",
-    "03 🐧 Knowing Linux Basics/16 Managing your Linux System, Filesystem & Storage.md",
-    "03 🐧 Knowing Linux Basics/20 Dev workstation setup - All the pretty things.md",
-    "02 ⌨️ Learning a Programming Language/08 Setting up your DevOps environment for Go & Hello World.md"
+    "04 🌐 Understand Networking/22 The OSI Model - The 7 Layers.md",
+    "04 🌐 Understand Networking/🚇 支线任务.md",
+    "Internal link.md",
+    "Day22_Networking5.png",
+    "Day22_Networking2 1.png",
+    "Day22_Networking3.png",
+    "04 🌐 Understand Networking/👩‍🏫 总结.md",
+    "images/Day21_Networking1.png"
   ]
 }

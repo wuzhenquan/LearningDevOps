@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "414b0fbe63c5b81b",
+            "id": "515fa33ac09ae5db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 🌐 Understand Networking/23 Network Protocols.md",
+                "file": "04 🌐 Understand Networking/27 Getting Hands-On with Python & Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8986b18c78b279ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "right": {
     "id": "6f1361d18a11532d",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 🌐 Understand Networking/23 Network Protocols.md",
+                "file": "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 🌐 Understand Networking/23 Network Protocols.md",
+                "file": "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 🌐 Understand Networking/23 Network Protocols.md"
+                "file": "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md"
               }
             }
           },
@@ -155,17 +168,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "414b0fbe63c5b81b",
+  "active": "8986b18c78b279ff",
   "lastOpenFiles": [
-    "04 🌐 Understand Networking/23 Network Protocols.md",
-    "04 🌐 Understand Networking/21 The Big Picture DevOps and Networking.md",
-    "04 🌐 Understand Networking/22 The OSI Model - The 7 Layers.md",
-    "04 🌐 Understand Networking/🚇 支线任务.md",
+    "04 🌐 Understand Networking/27 Getting Hands-On with Python & Network.md",
+    "04 🌐 Understand Networking/25 Python for Network Automation.md",
+    "04 🌐 Understand Networking/26 Building our Lab.md",
     "Internal link.md",
-    "Day22_Networking5.png",
-    "Day22_Networking2 1.png",
-    "Day22_Networking3.png",
-    "04 🌐 Understand Networking/👩‍🏫 总结.md",
-    "images/Day21_Networking1.png"
+    "04 🌐 Understand Networking/21 The Big Picture DevOps and Networking.md",
+    "02 ⌨️ Learning a Programming Language/codes/day13_example1.go.md",
+    "02 ⌨️ Learning a Programming Language/codes/day12_example3.go.md",
+    "02 ⌨️ Learning a Programming Language/codes/day12_example1.go.md",
+    "02 ⌨️ Learning a Programming Language/codes/day11_example4.go.md",
+    "02 ⌨️ Learning a Programming Language/codes/day11_example3.go.md"
   ]
 }

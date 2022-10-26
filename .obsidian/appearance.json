@@ -4,5 +4,5 @@
   "translucency": true,
   "accentColor": "",
   "showViewHeader": true,
-  "nativeMenus": true
+  "nativeMenus": false
 }

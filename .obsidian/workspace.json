@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md",
+                "file": "05 ☁️ Stick to one Cloud Provider/32 Microsoft Azure Storage Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 331.5
   },
   "right": {
     "id": "6f1361d18a11532d",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md",
+                "file": "05 ☁️ Stick to one Cloud Provider/32 Microsoft Azure Storage Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md",
+                "file": "05 ☁️ Stick to one Cloud Provider/32 Microsoft Azure Storage Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md"
+                "file": "05 ☁️ Stick to one Cloud Provider/32 Microsoft Azure Storage Models.md"
               }
             }
           },
@@ -199,18 +199,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 362.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "9c5fe1737a9d4470",
   "lastOpenFiles": [
-    "05 ☁️ Stick to one Cloud Provider/29 Microsoft Azure Fundamentals.md",
-    "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md",
-    "05 ☁️ Stick to one Cloud Provider/30 Microsoft Azure Security Models.md",
     "05 ☁️ Stick to one Cloud Provider/31 Microsoft Azure Compute Models.md",
     "05 ☁️ Stick to one Cloud Provider/32 Microsoft Azure Storage Models.md",
+    "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md",
+    "05 ☁️ Stick to one Cloud Provider/29 Microsoft Azure Fundamentals.md",
+    "05 ☁️ Stick to one Cloud Provider/30 Microsoft Azure Security Models.md",
     "05 ☁️ Stick to one Cloud Provider/🚇 支线任务.md",
     "Pasted image 20221023152822.png",
     "05 ☁️ Stick to one Cloud Provider/👩‍🏫 总结.md",

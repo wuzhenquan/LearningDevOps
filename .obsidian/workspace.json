@@ -8,67 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c416c6405dbab156",
+            "id": "fb31ba1f92650d20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/🚇 支线任务.md",
+                "file": "06 Containers/42 The Big Picture - Containers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93a8bce07729c324",
+            "id": "517ce9c28835c436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/🚇 支线任务.md",
+                "file": "06 Containers/44 Docker Images & Hands-On with Docker Desktop.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "742cd44da7993cd5",
+            "id": "2291bd885fe17e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/30 Microsoft Azure Security Models.md",
+                "file": "06 Containers/45 The anatomy of a Docker Image.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "664e4bdf4a564cff",
+            "id": "7ffa127b03f1f9e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/31 Microsoft Azure Compute Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c5fe1737a9d4470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/32 Microsoft Azure Storage Models.md",
-                "mode": "source",
-                "source": false
+                "file": "media/Pasted image 20221104104312.png"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 303.5
   },
   "right": {
     "id": "6f1361d18a11532d",
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/32 Microsoft Azure Storage Models.md",
+                "file": "media/Pasted image 20221104104312.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/32 Microsoft Azure Storage Models.md",
+                "file": "media/Pasted image 20221104104312.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 ☁️ Stick to one Cloud Provider/32 Microsoft Azure Storage Models.md"
+                "file": "media/Pasted image 20221104104312.png"
               }
             }
           },
@@ -199,22 +185,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 295.5,
+    "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "9c5fe1737a9d4470",
+  "active": "9c8cbc01e3c22c57",
   "lastOpenFiles": [
-    "05 ☁️ Stick to one Cloud Provider/31 Microsoft Azure Compute Models.md",
-    "05 ☁️ Stick to one Cloud Provider/32 Microsoft Azure Storage Models.md",
-    "05 ☁️ Stick to one Cloud Provider/28 The Big Picture DevOps & The Cloud.md",
-    "05 ☁️ Stick to one Cloud Provider/29 Microsoft Azure Fundamentals.md",
-    "05 ☁️ Stick to one Cloud Provider/30 Microsoft Azure Security Models.md",
-    "05 ☁️ Stick to one Cloud Provider/🚇 支线任务.md",
-    "Pasted image 20221023152822.png",
-    "05 ☁️ Stick to one Cloud Provider/👩‍🏫 总结.md",
-    "media/Day22_Networking6.png",
-    "01 ♾️ What is and why do we use DevOps/02 Responsibilities of a DevOps Engineer/03 What is DevOps? - IBM YouTube.md"
+    "06 Containers/46 Docker Compose.md",
+    "06 Containers/45 The anatomy of a Docker Image.md",
+    "06 Containers/44 Docker Images & Hands-On with Docker Desktop.md",
+    "media/Pasted image 20221101120139.png",
+    "media/Pasted image 20221101120035.png",
+    "media/Pasted image 20221026091721.png",
+    "media/Pasted image 20221026091716.png",
+    "media/Pasted image 20221026091627.png",
+    "media/Pasted image 20221023153955.png",
+    "05 ☁️ Stick to one Cloud Provider/34 Microsoft Azure Hands-On Scenarios.md"
   ]
 }

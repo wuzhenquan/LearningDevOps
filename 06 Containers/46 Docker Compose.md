@@ -69,7 +69,8 @@ volumes:
 	1. `-d` means detached mode, 意思就是 the Run command is or will be in the background
 4. run `docker ps` command
 	1. 能看到两个 containers 在 running：WordPress and MySQL
-	2. [![](https://github.com/MichaelCade/90DaysOfDevOps/raw/main/Days/Images/Day46_Containers3.png)](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/Days/Images/Day46_Containers3.png) 
+	2. ![[Pasted image 20221104105004.png]]
+	3. [![](https://github.com/MichaelCade/90DaysOfDevOps/raw/main/Days/Images/Day46_Containers3.png)](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/Days/Images/Day46_Containers3.png) 
 5. 验证 WordPress 是否在 up and running 了, 浏览器访问 ➡️  http://localhost:80
 7. 可以看到在 Docker Desktop 里的 volumes tab 有两个 volumes，WordPress 和 DB
 

@@ -47,14 +47,38 @@
             "id": "7ffa127b03f1f9e2",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Containers/47  Docker Networking & Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29579d0f58332688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 Containers/48 Alternatives to Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1e9faddb56af86f",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "media/Pasted image 20221104104312.png"
+                "file": "media/Pasted image 20221104140708.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Pasted image 20221104104312.png",
+                "file": "media/Pasted image 20221104140708.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Pasted image 20221104104312.png",
+                "file": "media/Pasted image 20221104140708.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/Pasted image 20221104104312.png"
+                "file": "media/Pasted image 20221104140708.png"
               }
             }
           },
@@ -188,17 +212,17 @@
     "width": 295.5,
     "collapsed": true
   },
-  "active": "9c8cbc01e3c22c57",
+  "active": "e1e9faddb56af86f",
   "lastOpenFiles": [
+    "07 Kubernetes/49 The Big Picture - Kubernetes.md",
+    "06 Containers/48 Alternatives to Docker.md",
+    "06 Containers/47  Docker Networking & Security.md",
     "06 Containers/46 Docker Compose.md",
+    "media/Pasted image 20221104104312.png",
     "06 Containers/45 The anatomy of a Docker Image.md",
     "06 Containers/44 Docker Images & Hands-On with Docker Desktop.md",
     "media/Pasted image 20221101120139.png",
     "media/Pasted image 20221101120035.png",
-    "media/Pasted image 20221026091721.png",
-    "media/Pasted image 20221026091716.png",
-    "media/Pasted image 20221026091627.png",
-    "media/Pasted image 20221023153955.png",
-    "05 ☁️ Stick to one Cloud Provider/34 Microsoft Azure Hands-On Scenarios.md"
+    "media/Pasted image 20221026091721.png"
   ]
 }

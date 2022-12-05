@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5e4da31df043cb9f",
+        "id": "d93063f27bb6f4cc",
         "type": "tabs",
         "children": [
           {
-            "id": "fb31ba1f92650d20",
+            "id": "d2acf83a481ffde2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Containers/42 The Big Picture - Containers.md",
+                "file": "03 🐧 Knowing Linux Basics/15 Linux Commands for DevOps (Actually everyone).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "517ce9c28835c436",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Containers/44 Docker Images & Hands-On with Docker Desktop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2291bd885fe17e3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Containers/45 The anatomy of a Docker Image.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ffa127b03f1f9e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Containers/47  Docker Networking & Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29579d0f58332688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 Containers/48 Alternatives to Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1e9faddb56af86f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "media/Pasted image 20221104140708.png"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "etc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Pasted image 20221104140708.png",
+                "file": "03 🐧 Knowing Linux Basics/15 Linux Commands for DevOps (Actually everyone).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Pasted image 20221104140708.png",
+                "file": "03 🐧 Knowing Linux Basics/15 Linux Commands for DevOps (Actually everyone).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/Pasted image 20221104140708.png"
+                "file": "03 🐧 Knowing Linux Basics/15 Linux Commands for DevOps (Actually everyone).md"
               }
             }
           },
@@ -212,17 +153,17 @@
     "width": 295.5,
     "collapsed": true
   },
-  "active": "e1e9faddb56af86f",
+  "active": "d2acf83a481ffde2",
   "lastOpenFiles": [
-    "07 Kubernetes/49 The Big Picture - Kubernetes.md",
-    "06 Containers/48 Alternatives to Docker.md",
-    "06 Containers/47  Docker Networking & Security.md",
+    "03 🐧 Knowing Linux Basics/14 The Big Picture DevOps and Linux.md",
     "06 Containers/46 Docker Compose.md",
-    "media/Pasted image 20221104104312.png",
     "06 Containers/45 The anatomy of a Docker Image.md",
     "06 Containers/44 Docker Images & Hands-On with Docker Desktop.md",
-    "media/Pasted image 20221101120139.png",
-    "media/Pasted image 20221101120035.png",
-    "media/Pasted image 20221026091721.png"
+    "06 Containers/43 What is Docker & Getting installed.md",
+    "06 Containers/42 The Big Picture - Containers.md",
+    "03 🐧 Knowing Linux Basics/16 Managing your Linux System, Filesystem & Storage.md",
+    "04 🌐 Understand Networking/23 Network Protocols.md",
+    "04 🌐 Understand Networking/22 The OSI Model - The 7 Layers.md",
+    "04 🌐 Understand Networking/21 The Big Picture DevOps and Networking.md"
   ]
 }

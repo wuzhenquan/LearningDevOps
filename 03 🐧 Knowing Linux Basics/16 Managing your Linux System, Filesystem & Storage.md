@@ -28,7 +28,7 @@ All the files your system needs to boot up. How to boot up, and what drive to bo
 ### `/dev`
 You can find device information here, this is where you will find pointers to your disk drives `sda` will be your main OS disk.
 ### `/etc`
-Short for etcetera.
+stands for **et cetera** but now a better expansion is editable-text-configurations.
 [Linux directory structure explained:/etc folder](https://www.linux.com/training-tutorials/linux-directory-structure-explainedetc-folder/#:~:text=ETC%20is%20a%20folder%20which,is%20having%20some%20interesting%20history.)
 Likely the most important folder on your Linux system, this is where the majority of your configuration files are.
 ### `/home`

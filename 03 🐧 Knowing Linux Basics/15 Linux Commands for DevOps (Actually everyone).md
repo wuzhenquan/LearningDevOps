@@ -119,5 +119,6 @@ ls -al <filename>
 #you can see the 3 groups mentioned above, user and group have read & write but everyone only has read.
 -rw-r--r--  1 wuzhenquan  staff  21 Oct  3 23:35 <filename>
 ```
+![[Pasted image 20221208100054.png]]
 
 # 后面几个命令比较难理解 好像也没用过 就先忽略 

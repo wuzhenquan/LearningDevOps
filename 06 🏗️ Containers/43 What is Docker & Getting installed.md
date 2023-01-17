@@ -28,11 +28,16 @@ being able to use a single file and command to spin up your application.
 
 除了是 a registry to host docker images，还有 automation、integrated into Github、security scanning的功能。
 
-### Dockerfile
+### Docker Image
+- is a **file** used to **execute** code in a docker container.
+- defines the structure of a docker container. 
+- is a buleprint for creating a docker contanier. 
 
-- text file
-- contains commands
-- execute manually to build a docker image
+所有的 docker image 都是通过 base image 构建的，这些 base image 可以是
+- an image of a runtime environment, e.g java, node.
+- an image of a operating system e.g ubuntu.
+
+The most popular way of creating a docker image is through a [[#Dockerfile]] 
 
 ## Installing Docker Desktop
 https://docs.docker.com/desktop/install/mac-install/ 

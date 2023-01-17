@@ -10,7 +10,7 @@ A Docker image is
 ➡️  [docker file example](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/Days/Containers/Dockerfile) 
 - text file
 - contains commands
-- for building docker images
+- **instructions on how Docker will build your docker image**.
 
 组成 docker image 的每个文件称为层。这些层由下往上构建，每个层都依赖于下方的层。层如果顺序合理，那么 docker images 生命周期管理效率会更高。
 a live operational conatiner 和 source image 的唯一区别：创建 container 时会添加一个可写层，也可称为容器层。
@@ -22,7 +22,33 @@ manifest.json contains
 - description of the Docker image
 - comprises information(image tags, a digital signature, and details)
 
-[![](https://github.com/MichaelCade/90DaysOfDevOps/raw/main/Days/Images/Day45_Containers2.png)](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/Days/Images/Day45_Containers2.png)
+🌰例子1
+```Dockerfile
+#specify the basic image 语法➡️ `FROM <baseImageName>:<tag>`
+From openjsk:11
+
+#copy the jar file into the container. jar file 是 everything needed to run the application
+Add target/*.jar app.jar
+
+#执行命令`java -jar appname.jar`
+ENTRYPOINT ["java", "-jar", "app.jar"] 
+```
+
+🌰例子2
+```Dockerfile
+From node:17-alpine
+
+#makes a new directory
+WORKDIR /app
+
+#copy the source code into the new directory
+COPY src/ .
+
+#install the dependecies into the container
+RUN npm install
+
+CMD ["node", "app.js"]
+```
 
 ### How to create a docker image
 

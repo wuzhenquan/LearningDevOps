@@ -1,6 +1,5 @@
-A Docker image is a **file** used to **execute** code in a Docker container.
-Docker images act as **a set of instructions** to build a Docker container, like a template.
-Docker images also act as the **starting point** when using Docker.
+
+Docker Images ➡️  [[43 What is Docker & Getting installed#Docker Image]]
 
 ### Exploring Docker Desktop
 

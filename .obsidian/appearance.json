@@ -1,8 +1,11 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "",
   "theme": "system",
   "translucency": true,
-  "accentColor": "",
+  "accentColor": "#002199",
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
 }
